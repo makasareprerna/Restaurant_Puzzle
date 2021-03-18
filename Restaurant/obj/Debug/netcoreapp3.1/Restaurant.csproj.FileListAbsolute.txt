@@ -1,0 +1,13 @@
+D:\Desktop\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+D:\Desktop\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+D:\Desktop\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+D:\Desktop\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+D:\Desktop\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+D:\Desktop\Restaurant\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+D:\Desktop\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csprojAssemblyReference.cache
+D:\Desktop\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+D:\Desktop\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+D:\Desktop\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+D:\Desktop\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+D:\Desktop\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+D:\Desktop\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache
