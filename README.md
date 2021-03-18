@@ -1,6 +1,6 @@
 # Restaurant_Puzzle
 
-This repository contains the solution to Jurgensville Restaurant Puzzle in C#.
+This repository contains the solution to Jurgensville Restaurant Puzzle in C# in the **master branch**.
 
 Below is the problem statement:
 
